@@ -1,0 +1,3 @@
+langflow
+uvicorn
+python-dotenv
